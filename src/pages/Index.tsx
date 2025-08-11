@@ -1,7 +1,7 @@
-import AIWireframesPreview from "@/components/AIWireframesPreview";
+import CleanAIWireframesPreview from "@/components/CleanAIWireframesPreview";
 
 const Index = () => {
-  return <AIWireframesPreview />;
+  return <CleanAIWireframesPreview />;
 };
 
 export default Index;
