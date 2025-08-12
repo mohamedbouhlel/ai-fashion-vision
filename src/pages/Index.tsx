@@ -1,7 +1,7 @@
-import CleanAIWireframesPreview from "@/components/CleanAIWireframesPreview";
+import { ProjectManagementApp } from "@/components/ProjectManagementApp";
 
 const Index = () => {
-  return <CleanAIWireframesPreview />;
+  return <ProjectManagementApp />;
 };
 
 export default Index;
